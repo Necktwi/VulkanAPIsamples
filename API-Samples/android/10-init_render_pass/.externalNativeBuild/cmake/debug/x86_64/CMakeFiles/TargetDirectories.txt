@@ -1,0 +1,7 @@
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/10-init_render_pass/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/10-init_render_pass/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/10-init_render_pass/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/vulkan_sample.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/10-init_render_pass/.externalNativeBuild/cmake/debug/x86_64/utils/CMakeFiles/edit_cache.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/10-init_render_pass/.externalNativeBuild/cmake/debug/x86_64/utils/CMakeFiles/rebuild_cache.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/10-init_render_pass/.externalNativeBuild/cmake/debug/x86_64/utils/CMakeFiles/native_app_glue.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/10-init_render_pass/.externalNativeBuild/cmake/debug/x86_64/utils/CMakeFiles/vsamputils.dir

@@ -1,0 +1,9 @@
+# ninja log v5
+2	139	0	utils/CMakeFiles/native_app_glue.dir/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c.o	a05c85ba507134ff
+140	313	0	utils/libnative_app_glue.a	43745c5b098b9ba0
+313	1857	0	utils/CMakeFiles/vsamputils.dir/util.cpp.o	e98b61a592cce3a2
+313	2014	0	utils/CMakeFiles/vsamputils.dir/util_init.cpp.o	4e10036460da60ea
+2014	2110	0	utils/libvsamputils.a	bd967ab4d739d73a
+2114	2255	0	CMakeFiles/vulkan_sample.dir/vulkan_wrapper/vulkan_wrapper.cpp.o	7411df451099ab80
+2110	3162	0	CMakeFiles/vulkan_sample.dir/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/occlusion_query/occlusion_query.cpp.o	639ab82fff8da6a4
+3162	4139	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libvulkan_sample.so	f6eb8cbe6d952c0f

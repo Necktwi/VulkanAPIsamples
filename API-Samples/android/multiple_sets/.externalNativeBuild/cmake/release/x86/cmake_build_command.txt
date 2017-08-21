@@ -1,0 +1,18 @@
+Executable : /Users/gowtham/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android
+-B/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/multiple_sets/.externalNativeBuild/cmake/release/x86
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=x86
+-DANDROID_NDK=/Users/gowtham/Library/Android/sdk/ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/multiple_sets/build/intermediates/cmake/release/obj/x86
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_MAKE_PROGRAM=/Users/gowtham/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
+-DCMAKE_TOOLCHAIN_FILE=/Users/gowtham/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DANDROID_PLATFORM=android-22
+-DANDROID_PLATFORM=android-26
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_STL=gnustl_static
+-DSAMPLE_NAME=multiple_sets
+jvmArgs : 
+

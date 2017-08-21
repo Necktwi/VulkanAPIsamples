@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/API-Samples/android" />
+            <option value="$PROJECT_DIR$/API-Samples/android/01-init_instance" />
+            <option value="$PROJECT_DIR$/API-Samples/android/02-enumerate_devices" />
+            <option value="$PROJECT_DIR$/API-Samples/android/03-init_device" />
+            <option value="$PROJECT_DIR$/API-Samples/android/04-init_command_buffer" />
+            <option value="$PROJECT_DIR$/API-Samples/android/05-init_swapchain" />
+            <option value="$PROJECT_DIR$/API-Samples/android/06-init_depth_buffer" />
+            <option value="$PROJECT_DIR$/API-Samples/android/07-init_uniform_buffer" />
+            <option value="$PROJECT_DIR$/API-Samples/android/08-init_pipeline_layout" />
+            <option value="$PROJECT_DIR$/API-Samples/android/09-init_descriptor_set" />
+            <option value="$PROJECT_DIR$/API-Samples/android/10-init_render_pass" />
+            <option value="$PROJECT_DIR$/API-Samples/android/11-init_shaders" />
+            <option value="$PROJECT_DIR$/API-Samples/android/12-init_frame_buffers" />
+            <option value="$PROJECT_DIR$/API-Samples/android/13-init_vertex_buffer" />
+            <option value="$PROJECT_DIR$/API-Samples/android/14-init_pipeline" />
+            <option value="$PROJECT_DIR$/API-Samples/android/15-draw_cube" />
+            <option value="$PROJECT_DIR$/API-Samples/android/16-draw_icosahedron" />
+            <option value="$PROJECT_DIR$/API-Samples/android/copy_blit_image" />
+            <option value="$PROJECT_DIR$/API-Samples/android/create_debug_report_callback" />
+            <option value="$PROJECT_DIR$/API-Samples/android/draw_subpasses" />
+            <option value="$PROJECT_DIR$/API-Samples/android/draw_textured_cube" />
+            <option value="$PROJECT_DIR$/API-Samples/android/dynamic_uniform" />
+            <option value="$PROJECT_DIR$/API-Samples/android/enable_validation_with_callback" />
+            <option value="$PROJECT_DIR$/API-Samples/android/enumerate_devices_adv" />
+            <option value="$PROJECT_DIR$/API-Samples/android/events" />
+            <option value="$PROJECT_DIR$/API-Samples/android/immutable_sampler" />
+            <option value="$PROJECT_DIR$/API-Samples/android/init_texture" />
+            <option value="$PROJECT_DIR$/API-Samples/android/input_attachment" />
+            <option value="$PROJECT_DIR$/API-Samples/android/instance_extension_properties" />
+            <option value="$PROJECT_DIR$/API-Samples/android/instance_layer_extension_properties" />
+            <option value="$PROJECT_DIR$/API-Samples/android/instance_layer_properties" />
+            <option value="$PROJECT_DIR$/API-Samples/android/memory_barriers" />
+            <option value="$PROJECT_DIR$/API-Samples/android/multiple_sets" />
+            <option value="$PROJECT_DIR$/API-Samples/android/multithreaded_command_buffers" />
+            <option value="$PROJECT_DIR$/API-Samples/android/occlusion_query" />
+            <option value="$PROJECT_DIR$/API-Samples/android/pipeline_cache" />
+            <option value="$PROJECT_DIR$/API-Samples/android/pipeline_derivative" />
+            <option value="$PROJECT_DIR$/API-Samples/android/push_constants" />
+            <option value="$PROJECT_DIR$/API-Samples/android/secondary_command_buffer" />
+            <option value="$PROJECT_DIR$/API-Samples/android/separate_image_sampler" />
+            <option value="$PROJECT_DIR$/API-Samples/android/spirv_assembly" />
+            <option value="$PROJECT_DIR$/API-Samples/android/spirv_specialization" />
+            <option value="$PROJECT_DIR$/API-Samples/android/template" />
+            <option value="$PROJECT_DIR$/API-Samples/android/texel_buffer" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

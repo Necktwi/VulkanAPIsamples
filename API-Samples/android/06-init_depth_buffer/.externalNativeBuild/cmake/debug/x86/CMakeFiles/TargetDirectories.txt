@@ -1,0 +1,7 @@
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/06-init_depth_buffer/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/06-init_depth_buffer/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/06-init_depth_buffer/.externalNativeBuild/cmake/debug/x86/CMakeFiles/vulkan_sample.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/06-init_depth_buffer/.externalNativeBuild/cmake/debug/x86/utils/CMakeFiles/edit_cache.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/06-init_depth_buffer/.externalNativeBuild/cmake/debug/x86/utils/CMakeFiles/rebuild_cache.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/06-init_depth_buffer/.externalNativeBuild/cmake/debug/x86/utils/CMakeFiles/native_app_glue.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/06-init_depth_buffer/.externalNativeBuild/cmake/debug/x86/utils/CMakeFiles/vsamputils.dir

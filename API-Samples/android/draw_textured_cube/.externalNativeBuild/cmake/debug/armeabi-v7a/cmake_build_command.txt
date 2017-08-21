@@ -1,0 +1,18 @@
+Executable : /Users/gowtham/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android
+-B/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/draw_textured_cube/.externalNativeBuild/cmake/debug/armeabi-v7a
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_NDK=/Users/gowtham/Library/Android/sdk/ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/draw_textured_cube/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_MAKE_PROGRAM=/Users/gowtham/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
+-DCMAKE_TOOLCHAIN_FILE=/Users/gowtham/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DANDROID_PLATFORM=android-22
+-DANDROID_PLATFORM=android-26
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_STL=gnustl_static
+-DSAMPLE_NAME=draw_textured_cube
+jvmArgs : 
+

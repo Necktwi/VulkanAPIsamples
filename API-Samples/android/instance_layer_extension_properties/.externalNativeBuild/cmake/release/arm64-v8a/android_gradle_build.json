@@ -1,0 +1,99 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/CMakeLists.txt",
+		"/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/utils/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/gowtham/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/instance_layer_extension_properties/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native_app_glue-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "native_app_glue",
+			"buildCommand" : "/Users/gowtham/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/instance_layer_extension_properties/.externalNativeBuild/cmake/release/arm64-v8a --target native_app_glue",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/gowtham/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/gowtham/Library/Android/sdk/ndk-bundle/sysroot  -I/Users/gowtham/AndroidWS/API-Samples/data -I/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/third_party/shaderc/third_party/glslang -I/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/utils  -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=26 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c",
+					"workingDirectory" : "/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/instance_layer_extension_properties/.externalNativeBuild/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/instance_layer_extension_properties/.externalNativeBuild/cmake/release/arm64-v8a/utils/libnative_app_glue.a",
+			"toolchain" : "11599815686618332093"
+		},
+		"shaderc_lib-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "shaderc_lib",
+			"buildType" : "release",
+			"output" : "/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/third_party/shaderc/libs/gnustl_static/arm64-v8a/libshaderc.a",
+			"toolchain" : "11599815686618332093"
+		},
+		"vsamputils-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "vsamputils",
+			"buildCommand" : "/Users/gowtham/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/instance_layer_extension_properties/.externalNativeBuild/cmake/release/arm64-v8a --target vsamputils",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/gowtham/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/gowtham/Library/Android/sdk/ndk-bundle/sysroot   -I/Users/gowtham/AndroidWS/API-Samples/data -I/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/third_party/shaderc/third_party/glslang -I/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/utils -I/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/android/native_app_glue -I/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/utils/../android/vulkan_wrapper -I/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/utils/../data -I/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/third_party/shaderc/include -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=26 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -std=c++11 -DVK_USE_PLATFORM_ANDROID_KHR -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/utils/util.cpp",
+					"workingDirectory" : "/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/instance_layer_extension_properties/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/gowtham/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/gowtham/Library/Android/sdk/ndk-bundle/sysroot   -I/Users/gowtham/AndroidWS/API-Samples/data -I/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/third_party/shaderc/third_party/glslang -I/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/utils -I/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/android/native_app_glue -I/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/utils/../android/vulkan_wrapper -I/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/utils/../data -I/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/third_party/shaderc/include -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=26 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -std=c++11 -DVK_USE_PLATFORM_ANDROID_KHR -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/utils/util_init.cpp",
+					"workingDirectory" : "/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/instance_layer_extension_properties/.externalNativeBuild/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/instance_layer_extension_properties/.externalNativeBuild/cmake/release/arm64-v8a/utils/libvsamputils.a",
+			"toolchain" : "11599815686618332093"
+		},
+		"vulkan_sample-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "vulkan_sample",
+			"buildCommand" : "/Users/gowtham/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/instance_layer_extension_properties/.externalNativeBuild/cmake/release/arm64-v8a --target vulkan_sample",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/gowtham/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/gowtham/Library/Android/sdk/ndk-bundle/sysroot  -Dvulkan_sample_EXPORTS -I../../../../../../data -I/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/utils -I/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/third_party/shaderc/third_party/spirv-tools/include -I/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/third_party/shaderc/third_party/spirv-tools/include/spirv-tools -I../../../../../../android/vulkan_wrapper -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=26 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -std=c++11  -Werror -D VK_USE_PLATFORM_ANDROID_KHR -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/instance_layer_extension_properties/instance_layer_extension_properties.cpp",
+					"workingDirectory" : "/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/instance_layer_extension_properties/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/gowtham/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/gowtham/Library/Android/sdk/ndk-bundle/sysroot  -Dvulkan_sample_EXPORTS -I../../../../../../data -I/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/utils -I/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/third_party/shaderc/third_party/spirv-tools/include -I/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/third_party/shaderc/third_party/spirv-tools/include/spirv-tools -I../../../../../../android/vulkan_wrapper -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/gowtham/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=26 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -std=c++11  -Werror -D VK_USE_PLATFORM_ANDROID_KHR -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/vulkan_wrapper/vulkan_wrapper.cpp",
+					"workingDirectory" : "/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/instance_layer_extension_properties/.externalNativeBuild/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/instance_layer_extension_properties/build/intermediates/cmake/release/obj/arm64-v8a/libvulkan_sample.so",
+			"toolchain" : "11599815686618332093"
+		}
+	},
+	"toolchains" : 
+	{
+		"11599815686618332093" : 
+		{
+			"cCompilerExecutable" : "/Users/gowtham/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/gowtham/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

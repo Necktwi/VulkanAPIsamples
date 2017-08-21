@@ -1,0 +1,7 @@
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/immutable_sampler/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/immutable_sampler/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/immutable_sampler/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/vulkan_sample.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/immutable_sampler/.externalNativeBuild/cmake/debug/armeabi-v7a/utils/CMakeFiles/edit_cache.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/immutable_sampler/.externalNativeBuild/cmake/debug/armeabi-v7a/utils/CMakeFiles/rebuild_cache.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/immutable_sampler/.externalNativeBuild/cmake/debug/armeabi-v7a/utils/CMakeFiles/native_app_glue.dir
+/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/android/immutable_sampler/.externalNativeBuild/cmake/debug/armeabi-v7a/utils/CMakeFiles/vsamputils.dir

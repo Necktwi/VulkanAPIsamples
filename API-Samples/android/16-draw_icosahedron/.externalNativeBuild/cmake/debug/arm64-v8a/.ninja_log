@@ -1,0 +1,11 @@
+# ninja log v5
+2	692	0	utils/CMakeFiles/native_app_glue.dir/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c.o	a05c85ba507134ff
+693	984	0	utils/libnative_app_glue.a	43745c5b098b9ba0
+984	3167	0	utils/CMakeFiles/vsamputils.dir/util.cpp.o	e98b61a592cce3a2
+985	3338	0	utils/CMakeFiles/vsamputils.dir/util_init.cpp.o	4e10036460da60ea
+3338	3939	0	utils/libvsamputils.a	bd967ab4d739d73a
+3940	4117	0	CMakeFiles/vulkan_sample.dir/vulkan_wrapper/vulkan_wrapper.cpp.o	7411df451099ab80
+3939	5018	0	CMakeFiles/vulkan_sample.dir/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/16-draw_icosahedron/16-draw_icosahedron.cpp.o	7e5f5476ac3c295b
+5018	6178	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libvulkan_sample.so	25395b7b518ca0fe
+13	1663	0	CMakeFiles/vulkan_sample.dir/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/16-draw_icosahedron/16-draw_icosahedron.cpp.o	7e5f5476ac3c295b
+1663	2586	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libvulkan_sample.so	25395b7b518ca0fe

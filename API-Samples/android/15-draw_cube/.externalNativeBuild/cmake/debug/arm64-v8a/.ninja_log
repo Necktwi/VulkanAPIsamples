@@ -1,0 +1,26 @@
+# ninja log v5
+0	186	0	utils/CMakeFiles/native_app_glue.dir/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c.o	a05c85ba507134ff
+189	427	0	utils/libnative_app_glue.a	43745c5b098b9ba0
+427	3497	0	utils/CMakeFiles/vsamputils.dir/util.cpp.o	e98b61a592cce3a2
+428	3843	0	utils/CMakeFiles/vsamputils.dir/util_init.cpp.o	4e10036460da60ea
+3843	3959	0	utils/libvsamputils.a	bd967ab4d739d73a
+3959	4176	0	CMakeFiles/vulkan_sample.dir/vulkan_wrapper/vulkan_wrapper.cpp.o	7411df451099ab80
+3959	5325	0	CMakeFiles/vulkan_sample.dir/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/15-draw_cube/15-draw_cube.cpp.o	d515a4f752be25c3
+5325	6485	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libvulkan_sample.so	8c9b0f7ddf8c3c37
+5	519	0	utils/CMakeFiles/native_app_glue.dir/Users/gowtham/Library/Android/sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c.o	a05c85ba507134ff
+519	699	0	utils/libnative_app_glue.a	43745c5b098b9ba0
+699	2649	0	utils/CMakeFiles/vsamputils.dir/util.cpp.o	e98b61a592cce3a2
+701	2792	0	utils/CMakeFiles/vsamputils.dir/util_init.cpp.o	4e10036460da60ea
+2792	2875	0	utils/libvsamputils.a	bd967ab4d739d73a
+2875	3010	0	CMakeFiles/vulkan_sample.dir/vulkan_wrapper/vulkan_wrapper.cpp.o	7411df451099ab80
+2875	3692	0	CMakeFiles/vulkan_sample.dir/Users/gowtham/AndroidWS/VulkanAPIsamples/API-Samples/15-draw_cube/15-draw_cube.cpp.o	d515a4f752be25c3
+3692	4546	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libvulkan_sample.so	8c9b0f7ddf8c3c37
+2	1460	0	utils/CMakeFiles/vsamputils.dir/util_init.cpp.o	4e10036460da60ea
+1460	1545	0	utils/libvsamputils.a	bd967ab4d739d73a
+1545	2177	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libvulkan_sample.so	8c9b0f7ddf8c3c37
+4	1495	0	utils/CMakeFiles/vsamputils.dir/util_init.cpp.o	4e10036460da60ea
+1495	1565	0	utils/libvsamputils.a	bd967ab4d739d73a
+1566	2154	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libvulkan_sample.so	8c9b0f7ddf8c3c37
+2	1363	0	utils/CMakeFiles/vsamputils.dir/util_init.cpp.o	4e10036460da60ea
+1363	1430	0	utils/libvsamputils.a	bd967ab4d739d73a
+1431	2139	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libvulkan_sample.so	8c9b0f7ddf8c3c37
