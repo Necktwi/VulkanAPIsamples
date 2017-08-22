@@ -10,6 +10,7 @@ nbproject/private/private.xml
 **/._.DS_Store
 **/.dep.inc
 **/._*
+**/.externalNativeBuild
 
 nbproject/private/
 build/
